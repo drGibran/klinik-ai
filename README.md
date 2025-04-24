@@ -1,1 +1,1 @@
-# klinik-ai
+# klinik-AI
